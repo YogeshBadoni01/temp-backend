@@ -1,0 +1,15 @@
+{
+  "name": "learning_backend",
+  "version": "1.0.0",
+  "description": "i working on skill of backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "production"
+  ],
+  "author": "yogesh badoni",
+  "license": "ISC"
+}
